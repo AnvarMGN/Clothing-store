@@ -33,10 +33,10 @@ cd clothing-store
 ```
 3. Установить необходимые зависимости node_modules
 ```
-nmp i
+npm i
 ```
 4. Запустить команду
 ```
-nmp run dev
+npm run dev
 ```
 5. Сайт откроется в браузере.
